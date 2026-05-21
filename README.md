@@ -2,6 +2,9 @@
 
 A premium, real-time messaging and chat application built with a high-performance **Microservices Architecture**. The project is split into a Next.js frontend and containerized/decoupled backend services communicating asynchronously through RabbitMQ and cached using Redis.
 
+<img width="1756" height="909" alt="image" src="https://github.com/user-attachments/assets/73af912e-ae0a-4ce9-b95d-3885adcd6187" />
+<img width="1911" height="907" alt="image" src="https://github.com/user-attachments/assets/8a342ae8-1e48-4a9c-ad1d-27b690213949" />
+
 ---
 
 ## 🚀 Features
